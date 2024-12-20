@@ -1,0 +1,13 @@
+Câu 1: Thành phần nào sau đây KHÔNG phải là một thành phần giao diện người dùng (UI) trong Android?
+A. TextView
+B. Button
+C. Service
+D. ImageView
+ANSWER: C
+
+Câu 2: Layout nào thường được sử dụng để sắp xếp các thành phần UI theo chiều dọc hoặc chiều ngang?
+A. RelativeLayout
+B. LinearLayout
+C. FrameLayout
+D. ConstraintLayout
+ANSWER: B
